@@ -1,2 +1,3 @@
-# image-classification-with-scikit-learn
-a simple example of building an image classifier with scikit-learn
+# Image-classification-with-scikit-learn
+
+A simple example of building an image classifier with scikit-learn
